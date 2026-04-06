@@ -15,3 +15,7 @@ func _process(delta):
 	pass
 
 
+
+
+func _on_good_button_pressed() -> void:
+	pass # Replace with function body.
